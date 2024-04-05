@@ -1,0 +1,9 @@
+{
+  "name": "test-ci-nx",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/test-ci-nx",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project test-ci-nx --web",
+  "targets": {}
+}

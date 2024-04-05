@@ -1,0 +1,8 @@
+{
+  "name": "test-ci-nx-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/test-ci-nx-e2e/src",
+  "implicitDependencies": ["test-ci-nx"],
+  "// targets": "to see all targets run: nx show project test-ci-nx-e2e --web",
+  "targets": {}
+}
